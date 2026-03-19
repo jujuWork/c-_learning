@@ -1,0 +1,11 @@
+﻿string firstName = "Bob";
+int message = 3;
+decimal temperature = 34.4m;
+temperature = 34.4m;
+Console.Write("Hello ");
+Console.Write(firstName);
+Console.Write("! You have ");
+Console.Write(message);
+Console.Write(" message in you inbox. The Temperature is ");
+Console.Write(temperature);
+Console.Write(" Celcius");
